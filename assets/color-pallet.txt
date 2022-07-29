@@ -1,0 +1,8 @@
+blue #3EB5F1
+light blue rgba(235, 249, 255, 0.95);
+
+ light blue #3EB5F1
+ dark blue #003364
+ brown #8F4F00
+ gray to blue #E6F4F1
+  
